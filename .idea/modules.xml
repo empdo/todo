@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/todo-project.iml" filepath="$PROJECT_DIR$/.idea/todo-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/todo.iml" filepath="$PROJECT_DIR$/.idea/modules/todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reactTodoApp/android/build.gradle/todo.build.gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/reactTodoApp/android/build.gradle/todo.build.gradle.iml" />
     </modules>
   </component>
 </project>
